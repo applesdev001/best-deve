@@ -1,4 +1,4 @@
-# James Liao
+# Tom Palmer
 ## About Me
 Dynamic and results-oriented Full Stack Developer experienced in web application development. Committed to continual skill and knowledge improvement, delivering high-quality work in a fast-paced environment. Effective team player with strong communication skills.
 
